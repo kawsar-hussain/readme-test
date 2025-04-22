@@ -27,7 +27,7 @@
 
 - **Projects:** Now I'm developing a portfolio website. 
 
-- **Education:** I'm a BSS Honours student in the _Department of Sociology_ at Dhaka College, affiliated with the University of Dhaka. My educational history given bellow. 
+- **Education:** I'm a BSS Honours student in the _Department of Sociology_ at Dhaka College, affiliated with the University of Dhaka. Here is an overview of my education.
 
 | Class Name | School or University Name | Department | Passing Year | 
 |-------------|---------------|------------|----------|
